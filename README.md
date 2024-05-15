@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mire0726 Page
 
 <!--
 **Mire0726/Mire0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/Mire0726?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Mire0726}
+)](https://github.com/anuraghazra/github-readme-stats)
